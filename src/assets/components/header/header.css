@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #006;
+}
+.navbar a{
+    color: white;
+    font-weight: 700;
+    transition: 0.5s ease-in;
+}
+.navbar a:hover{
+    background-color: #ddd;
+}

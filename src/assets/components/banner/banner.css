@@ -1,0 +1,5 @@
+.bg{
+    background: url(../../../assets/banner.jpg);
+    background-size: cover;
+    padding: 250px 0;
+}
