@@ -29,11 +29,15 @@ function Product() {
                 <Col lg={4}>
                     <div className='thumb'>
                         <img src={Product2}></img>
-                        </div>
+                        <p>All Course</p>
+                        <h3>Professional Motion Graphics</h3>
+                    </div>
                 </Col>
                 <Col lg={4}>
                     <div className='thumb'>
                         <img src={Product3}></img>
+                        <p>All Course</p>
+                        <h3>Professional UI/UX Design</h3>
                     </div>
                 </Col>
             </Row>
